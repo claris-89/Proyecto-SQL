@@ -100,6 +100,7 @@ Reseñas de clientes:
 - Visualizaciones claras que respalden las recomendaciones estratégicas.
 
 ---
+## Conclusiones
 El análisis de la base de datos proporcionada por el servicio emergente en el mercado literario digital ha revelado una serie de insights valiosos que pueden informar el desarrollo de una propuesta de valor sólida para una nueva aplicación de lectura. A continuación, se resumen los hallazgos más relevantes:
 
 1. **Producción Editorial Activa**:
